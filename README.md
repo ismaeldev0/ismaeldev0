@@ -1,6 +1,6 @@
 # Here's what I'm working on 👨‍💻
 
-- 🚀 I'm currently building... 
+- 🚀 I'm currently building... CLI Task Manager :)
 - 🌱 I'm currently learning... **Python, FastAPI, APIs**
 - 🧠 I'm improving... **Backend development & problem solving**
 - 🤝 I'm open to... **collaborating on Python / backend projects**
@@ -8,7 +8,7 @@
 ---
 
 ## ⚡ Tech Stack
-- Python (learning)
+- Python
 - FastAPI (learning)
 - Git
 
