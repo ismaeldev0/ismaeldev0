@@ -1,16 +1,24 @@
-## Hi there 👋
+# Here's what I'm working on 👨‍💻
 
-<!--
-**ismaeldev0/ismaeldev0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🚀 I'm currently building... **WhatsApp Scheduling SaaS**
+- 🌱 I'm currently learning... **Python, FastAPI, APIs**
+- 🧠 I'm improving... **Backend development & problem solving**
+- 🤝 I'm open to... **collaborating on Python / backend projects**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Tech Stack
+- Python (learning)
+- FastAPI (learning)
+- Git
+
+---
+
+## 🎯 Current Focus
+- Building real projects
+- Understanding APIs & backend systems
+
+---
+
+## 📌 Fun fact
+- I’m self-taught and learning by building real stuff
