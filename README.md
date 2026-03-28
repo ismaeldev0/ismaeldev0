@@ -1,6 +1,6 @@
 # Here's what I'm working on 👨‍💻
 
-- 🚀 I'm currently building... **CLI Task Manager :)**
+- 🚀 I'm currently building... **CLI Expense Tracker :)**
 - 🌱 I'm currently learning... **Python, FastAPI, APIs**
 - 🧠 I'm improving... **Backend development & problem solving**
 - 🤝 I'm open to... **collaborating on Python / backend projects**
@@ -21,4 +21,4 @@
 ---
 
 ## 📌 Fun fact
-- I’m self-taught and learning by building real stuff
+- I’m self-taught and learning by building stuff
